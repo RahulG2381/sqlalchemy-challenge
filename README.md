@@ -4,7 +4,7 @@ The project analyzes the Climate and Station data for holiday vacation in Honolu
 It has two parts
 1.	Analyse and Explore the Climate Data
 2.	Design Your Climate App
-## Part 1:
+## Part 1: Analyse and Explore the Climate Data
 In this segment of the project, Python and SQLAlchemy are employed to conduct a fundamental climate analysis and explore data within the SQLite climate database. This involves utilizing SQLAlchemy functions such as create_engine() and automap_base() to establish a connection to the database and map tables into classes, namely 'station' and 'measurement'. Subsequently, the data is scrutinized through the creation of sessions, execution of queries, and subsequent closure of the sessions. The analysis leverages ORM queries, Pandas, and Matplotlib for a comprehensive exploration of the data.
 ## Precipitation Analysis
 1.	Finding the most recent date in the dataset.
